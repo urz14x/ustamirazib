@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ustami Rajib</h1>
-<h3 align="center">I'm a Frontend developer based in Bandung Indonesia, interested in web developer i’m working as frontend dev.</h3>
+<h1>Hi 👋, I'm Ustami Rajib</h1>
+<h3>I'm a Frontend developer based in Bandung Indonesia, interested in web developer i’m working as frontend dev.</h3>
 
-- 💬 Ask me about **html, css, javascript, reactjs**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT AND REACTJS**
 
 - 📫 How to reach me **ustamirazib45@gmail.com**
 
